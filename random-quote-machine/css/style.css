@@ -1,0 +1,34 @@
+@import url(https://fonts.googleapis.com/css?family=Unica+One);
+html,
+body {
+  height: 100%;
+}
+
+h1 {
+  font-family: 'Unica One', serif;
+  font-size: 80px;
+  color: #ffffff;
+}
+
+.lead {
+  color: #ffffff;
+}
+/* Custom container */
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+  min-height: 100%;
+  background: linear-gradient(70deg , #8c76ed, #fca4c5);
+  color: black;
+  overflow: hidden;
+}
+
+.container-full blockquote {
+  margin-left: 10vh;
+  margin-right: 10vh;
+}
+
+.v-center {
+  margin-top: 7%;
+}
